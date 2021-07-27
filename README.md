@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💌** Contact me:**
+## 💌 Contact me:
 
 - **Twitter:** [@B1ue1nWh1te](https://twitter.com/B1ue1nWh1te)
 - [![Mail](https://img.shields.io/badge/Email-1806972095@qq.com-blue?style=flat&logo=mail.ru)](https://mail.qq.com/)
