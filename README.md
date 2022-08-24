@@ -1,10 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm B1ue1nWh1te</h1>
 
-## 💌 Contact me:
-
-- Twitter: [@B1ue1nWh1te](https://twitter.com/B1ue1nWh1te)
-- Blog: [SeaEye](https://www.seaeye.cn)
-- [![Mail](https://img.shields.io/badge/Email-1806972095@qq.com-blue?style=flat&logo=mail.ru)](https://mail.qq.com/)
+[![SeaEye](https://img.shields.io/badge/Blog-SeaEye-blue?style=flat)](https://www.seaeye.cn)
+[![Mail](https://img.shields.io/badge/Email-1806972095@qq.com-blue?style=flat&logo=mail.ru)](mailto:1806972095@qq.com)
+![Twitter Follow](https://img.shields.io/twitter/follow/B1ue1nWh1te?label=B1ue1nWh1te&logo=Twitter)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=B1ue1nWh1te)
 
 ---
 
