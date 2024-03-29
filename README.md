@@ -8,6 +8,9 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://go.dev/)
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)](https://redis.io/)
+[![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)](https://www.nginx.com/)
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://www.docker.com/)
 
 [![Web3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3.js)](https://github.com/web3/web3.js)
