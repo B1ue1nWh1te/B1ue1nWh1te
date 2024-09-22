@@ -53,9 +53,11 @@
 [![More](https://img.shields.io/badge/-%3C%3E%20And%20so%20on%20%7B%20...fullStack%20%7D%20%3C/%3E-05122A)](https://github.com/B1ue1nWh1te)
 [![Profile Views](https://komarev.com/ghpvc/?username=B1ue1nWh1te&label=Profile%20Views&color=05122a)](https://github.com/B1ue1nWh1te)
 
-<a href="https://github.com/B1ue1nWh1te">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true" alt="Most Used Languages">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="Github Stats"/>
+<br>
+
+<a href="https://github.com/B1ue1nWh1te" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="Github Stats"/>
 </a>
 
 [![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uW7Odd7VGWJVRTXAeO9tZVi4dMRB2)](https://gitroll.io/profile/uW7Odd7VGWJVRTXAeO9tZVi4dMRB2)
