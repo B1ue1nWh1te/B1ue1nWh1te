@@ -57,9 +57,13 @@
 
 <a href="https://github.com/B1ue1nWh1te">
     <img align="top" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ue1nWh1te&theme=blueberry" alt="Github Stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true" alt="Most Used Languages">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="Github Stats"/>
+</a>
+
+<br>
+
+<a href="https://github.com/B1ue1nWh1te">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="Github Stats"/>
 </a>
 
 [![GitRoll Profile Badge](https://gitroll.io/api/badges/profiles/v1/uW7Odd7VGWJVRTXAeO9tZVi4dMRB2)](https://gitroll.io/profile/uW7Odd7VGWJVRTXAeO9tZVi4dMRB2)
