@@ -53,6 +53,8 @@
 [![More](https://img.shields.io/badge/-%3C%3E%20And%20so%20on%20%7B%20...fullStack%20%7D%20%3C/%3E-05122A)](https://github.com/B1ue1nWh1te)
 [![Profile Views](https://komarev.com/ghpvc/?username=B1ue1nWh1te&label=Profile%20Views&color=05122a)](https://github.com/B1ue1nWh1te)
 
+<br>
+
 [![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ue1nWh1te&theme=blueberry)](https://github.com/B1ue1nWh1te)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/B1ue1nWh1te)
 [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true)](https://github.com/B1ue1nWh1te)
