@@ -57,7 +57,8 @@
 
 <a href="https://github.com/B1ue1nWh1te">
     <img align="top" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ue1nWh1te&theme=blueberry" alt="Github Stats"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true" alt="Most Used Languages">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&layout=compact&count_private=true&hide_border=true" alt="Most Used Languages">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&count_private=true&show_icons=true&hide_border=true&rank_icon=github" alt="Github Stats"/>
 </a>
 
