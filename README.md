@@ -41,7 +41,7 @@
 [![Dify.ai](https://img.shields.io/badge/-Dify.ai-05122A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAjVBMVEVHcEzM3/71+P9gh+nr8v4mTNXW5v7h6/4bQNBpke0RNMwzWtpzmu/B2f59o/L9/v+HrPSbvPikw/qtyvu40v2RtPY/aN9UfeYtUdZKc+OEpvEhR9Ogq+l4nvBfh+rO3/0sUtfO4P0bP9BDbODt8/4KKsjs8v+XtfWoxfrg7P+10PzU5P620f2px/kHJ8egHXnlAAAALnRSTlMA6ub15/vp6P30/vrz6/Lm8e/u7ezw+fcd+Brw79TYL9tI39q14HG8cpzE16eMn1bV9gAAAxhJREFUWMPdl91a4jAQhqG/IBShLQt0WWvdLgVF7//yNpnMJJM0qRz70QePvjfvTPQRZrOfkyaUR/t/XuDlZhiGz2v3AKV5WYqs1+IR2YhsZfbwtt8P17Z5ALBeYh8IiJDZiQzX5gGDJSgowHYDCrIPhN37FEIBlmuuYBuU5a4cuu8AS7YEUJAGKFDKfDZhQGwIjoGul1V1b0MA1V/iHs0aiSARlXi9t0FAbGawbsEMUMn4CQKgCRbCGqEqgwQJiGkNCNhujIE+v6rq6t6EAQZhG+gJ6qqu62sAEMdmjfIizA60APTrejzEUQGIYRlYE0C/vgcB9gwAYP0aU9TdGHCIuYNWIEDFBIq6uI93cIgPzEEpbC0AHS/6RdGODQ6EIAdtoDcIh8t6UXz6AFxCG4CAsae8Nz4AQLgCAHifCPOi8wNitBgB+OmyP3d+mZq/p8PJkRAEuQLZd06fi9wcAwCcGEE6gEHJj1dl+e4sQRiIHE4EAYScQQro7WEd8tG6BhgSgSE2UoDalGIagBiFEADsz0fpJgGKEa/3Ve0r+wC/VE7qRYyd087kk8EzAqiqldXqnGdWoKwIAQPdFe1VujhHec678sGfEwAoi3q6eDpHSZ7nuWuR+UZQTdWl/tf5OQFCnuUOY3SNqi36dHy6AECEBJcxAqxW5vQU+whQiMxm9I0LYPKqLwQkQBMkItMM94/p1a6jAAAMgWGySwCg6zYgT/QeUKPzA7APA2gAKDAJyegbDyC1zxd9AcAlSIeEES6zESA1x6c2wCB0ProxQPdJwAVwxG30n+k1tfuwQg2IXEDnA5i6FtAGjsNtNgFIkfCFIzCFHJf50QYBC1ogM3C2kIyvwADweLoDZqARgnBrQgCt/4QTsBE0IOl9H7IAIPq/6QqMQfQcWRfh7QOA/KH/xUaAvwci+PsWgO0QAGQQTfRnxze6AVHXK7SWCIhL6MP28W1BG+Q7VAa0xqgPf9wXAGsA7KOBIvSXiS8c0gDPX7gAMEgm6wZAC+Q7eJbt9ptvbcfXN5N/JkPf3y5d+8AXx6M/zezn5z9I7pqaItqWOgAAAABJRU5ErkJggg==)](https://dify.ai/)
 
 ![信息安全](https://img.shields.io/badge/-%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8-05122A)
-![Pre-CTFer | Blockchain | Misc | Crypto](https://img.shields.io/badge/-Retired%20CTFer%20%7C%20Blockchain%20%7C%20Misc%20%7C%20Crypto-05122A)
+![CTFer | Blockchain | Misc | Crypto](https://img.shields.io/badge/-CTFer%20%7C%20Blockchain%20%7C%20Misc%20%7C%20Crypto-05122A)
 [![SU Team](https://img.shields.io/badge/-SU%20Team-05122A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEX///+72+gcaqVmmbsdcrLd8vft+vz//vn8///2//+hyN2IsspNjbnN6PGQvtd0qswzfLKt0ONi2oU0AAAB0klEQVQ4y2WTiXJDIQhFRQUF9///2V58aZNpmGnSyGG5oCG4FbcQaq1aa/mz8GGlvrASqurFPt3Vzb1V5Ga59vI9FW646lhr6JP9VRXB79RsPed++N1E1QcQEWaaPcYM65MG40jD9YKilFLfOcaYDiWndscRqbvRmNoNzH1NrlVoAYbFqa4Ff3pynnYGc2NXUGSQzZwN7VYHKsU9kG6M2YbUAgQN73g8+AJjdxfHZnMBUfyv3Dc9ABSzESMIMlObvfEtQ8YY0QWCnGTeDqVmUDQw6oIjeeYIIZJiQzqBsnXIDPVqi0lQv9416cKvB0g2+CTymIW1lLvHqjNvRg/WjegMOQM95ukKrh/FcyZ9miQWFFCcHPW+LlB4g0eNM09rhmXpxGjqG5AVOzERpTWoYQncvYUL3DuBbexm8G2cy+xEMfqg/26UR2AGwqk3wnIXMvILqHefannbajzmYLq7n6hwC1wAu0noomHSNtNCpSfBGyiBdvQErUHoyts1Xg3vNmZE2qBFZeKuSPhvVVrMCyNAfGxSvgAFgVtn1mNu8vsoPjOAOHDmuE2g6wvAqwllrL3X8CV/ZSjluYpjiD/Ofy/3l/CbdL/023/n4Ungfz5e5z+GrhgYAzg/EQAAAABJRU5ErkJggg==)](https://su-team.cn/)
 
 [![More](https://img.shields.io/badge/-%3C%3E%20And%20so%20on%20%7B%20...fullStack%20%7D%20%3C/%3E-05122A)](https://github.com/B1ue1nWh1te)
@@ -49,9 +49,8 @@
 
 <br>
 
+[![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ue1nWh1te&theme=tokyonight)](https://github.com/B1ue1nWh1te)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/B1ue1nWh1te)
 [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/B1ue1nWh1te)
-
-[![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ue1nWh1te&theme=tokyonight)](https://github.com/B1ue1nWh1te)
 
 </div>
