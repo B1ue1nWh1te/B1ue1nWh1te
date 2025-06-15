@@ -48,8 +48,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=B1ue1nWh1te&label=Profile%20Views&color=05122a)](https://github.com/B1ue1nWh1te)
 
 [![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ue1nWh1te&theme=tokyonight)](https://github.com/B1ue1nWh1te)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/B1ue1nWh1te)
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=B1ue1nWh1te&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&hide_rank=true)](https://github.com/B1ue1nWh1te)
 [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=B1ue1nWh1te&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true&hide_title=true&hide_border=true)](https://github.com/B1ue1nWh1te)
 
 </div>
